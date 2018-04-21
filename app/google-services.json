@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "273921255754",
+    "firebase_url": "https://teaser-f3f5b.firebaseio.com",
+    "project_id": "teaser-f3f5b",
+    "storage_bucket": "teaser-f3f5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273921255754:android:18af20afd7e2aaa7",
+        "android_client_info": {
+          "package_name": "com.kingswhale.teaser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273921255754-c0pccf37moo4fq423d0spdj0gatm0mno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg4-Pb_BciVKjYjjIYns9nkm5P_Wffumw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
